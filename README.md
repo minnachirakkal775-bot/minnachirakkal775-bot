@@ -1,106 +1,136 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=Vaishnavi%20C%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20|%20Deep%20Learning%20|%20Full%20Stack%20Developer&descAlignY=58"/>
+
 <h1 align="center">Hi 👋, I'm Vaishnavi C S</h1>
-<h3 align="center">B.Tech Computer Science & Engineering Student | AI & Deep Learning Enthusiast | Full Stack Developer</h3>
+
+<h3 align="center">
+B.Tech Computer Science & Engineering Student <br>
+AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;AI+%7C+Deep+Learning+%7C+Computer+Vision;Flutter+%7C+Django+%7C+Python;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+Enthusiast;Deep+Learning+Developer;Computer+Vision+Explorer;Flutter+%7C+Django+%7C+Python;Always+Learning+New+Things+🚀"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/minnachirakkal775-bot">
+<img src="https://komarev.com/ghpvc/?username=minnachirakkal775-bot&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<img src="https://img.shields.io/github/followers/minnachirakkal775-bot?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/minnachirakkal775-bot?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Developer-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
 
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 ## 👩‍💻 About Me
 
-🎓 **B.Tech Computer Science & Engineering**  
-🏫 Vidya Academy of Science and Technology, Kerala
+🎓 **B.Tech Computer Science & Engineering Student**
 
-🌱 Currently Learning
-- Artificial Intelligence
-- Deep Learning (YOLOv8)
-- Machine Learning
-- Flutter Development
-- Django
-- Computer Vision
+🏫 **Vidya Academy of Science and Technology, Kerala**
 
-💡 Interested In
-- AI & Deep Learning
-- Computer Vision
-- Web Development
-- Mobile App Development
-- Open Source
+💻 Passionate about **Artificial Intelligence, Deep Learning, Computer Vision, and Full Stack Development**
 
-🎯 Goal
-> Build intelligent applications that solve real-world problems using AI.
+🌱 Currently learning **Machine Learning, YOLOv8, Flutter, Django, and Cloud Computing**
+
+🚀 Building intelligent applications that solve real-world problems
+
+🤝 Looking for Internship and Open Source Collaboration Opportunities
+
+⚡ Fun Fact: *I love transforming innovative ideas into practical AI solutions.*
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+## 💻 Programming Languages
 
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,sql"/>
+</p>
 
-### ⚙ Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+## 🎨 Frontend Development
 
-### 🤖 AI / ML
-- YOLOv8
-- OpenCV
-- TensorFlow
-- PyTorch
-- NumPy
-- Pandas
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter"/>
+</p>
 
-### 🗄 Database
-- MySQL
-- SQLite
+## ⚙ Backend Development
 
-### 🛠 Tools
-- Git
-- GitHub
-- VS Code
-- Google Colab
-- Power BI
-- Figma
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask"/>
+</p>
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+</p>
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/YOLOv8-Deep%20Learning-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+</p>
+
+## 🛠 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,mysql"/>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### ♻️ Smart Waste Classification using YOLOv8
-AI-powered waste detection and classification system for sustainable waste management.
-
-### 🚨 Disaster Management System
-A Flask web application for disaster reporting, volunteer coordination, and resource management.
-
-### 📊 ElectViz
-Interactive Election Data Visualization Dashboard using Power BI.
-
-### 📱 Flutter Applications
-Mobile applications focused on community support and emergency assistance.
+| 🚀 Project | Description |
+|------------|-------------|
+| ♻️ **Smart Waste Classification** | AI-powered waste detection and classification using YOLOv8 |
+| 🚨 **Disaster Management System** | Flask + MySQL web application for disaster reporting and resource management |
+| 📊 **ElectViz Dashboard** | Interactive Election Data Visualization Dashboard using Power BI |
+| 📱 **Flutter Applications** | Mobile applications for community support and emergency assistance |
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=minnachirakkal775-bot&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=minnachirakkal775-bot&show_icons=true&theme=tokyonight"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnachirakkal775-bot&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnachirakkal775-bot&layout=compact&theme=tokyonight"/>
 
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -108,41 +138,88 @@ Mobile applications focused on community support and emergency assistance.
 
 </p>
 
----
-
-## 📈 Contribution Graph
-
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=minnachirakkal775-bot&theme=tokyo-night"/>
 
 </p>
 
----
+<p align="center">
 
-## 🏆 GitHub Trophies
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minnachirakkal775-bot&theme=tokyonight"/>
+
+</p>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=minnachirakkal775-bot&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=minnachirakkal775-bot&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌱 Currently Learning
 
-📧 **Email:**  
-**minnachirakkal775@gmail.com**
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/vaishnavi-c-s-34ab3a290
+- 🤖 Artificial Intelligence
+- 🧠 Deep Learning (YOLOv8)
+- 👁 Computer Vision
+- 📱 Flutter Development
+- 🌐 Django Development
+- ☁ Cloud Computing
 
 ---
 
-## 💭 Quote
+## 🎯 Goals for 2026
 
-> *"Learning never exhausts the mind. Every line of code is a step toward innovation."*
+✅ Build impactful AI-powered applications
+
+✅ Contribute to Open Source Projects
+
+✅ Participate in National Hackathons
+
+✅ Strengthen Full Stack Development Skills
+
+✅ Secure a Software Development / AI Internship
+
+---
+
+## 🏅 Certifications
+
+🏆 IBM SkillsBuild
+
+🏆 Python Programming
+
+🏆 Artificial Intelligence
+
+🏆 Deep Learning
+
+🏆 Power BI
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:minnachirakkal775@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vaishnavi-c-s-34ab3a290">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/minnachirakkal775-bot">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Developer Quote
+
+> **"Learning never exhausts the mind. Every line of code is an opportunity to create, innovate, and inspire."**
 
 ---
 
@@ -151,3 +228,5 @@ https://www.linkedin.com/in/vaishnavi-c-s-34ab3a290
 <p align="center">
 If you like my work, don't forget to ⭐ my repositories.
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6C63FF&height=120&section=footer"/>
