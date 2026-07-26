@@ -115,11 +115,12 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 
 | 🚀 Project | Repository Link | Description |
 |------------|-----------------|-------------|
-| ⚡ **EV Chain Project** | [View Repository](https://github.com/minnachirakkal775-bot/EV-chain) | Smart Electric Vehicle charging ecosystem & blockchain management system |
-| ♻️ **Smart Waste Classification** | [View Repository](https://github.com/minnachirakkal775-bot) | AI-powered waste detection and classification using YOLOv8 |
-| 🚨 **Disaster Management System** | [View Repository](https://github.com/minnachirakkal775-bot) | Flask + MySQL web application for disaster reporting and resource management |
-| 📊 **ElectViz Dashboard** | [View Repository](https://github.com/minnachirakkal775-bot) | Interactive Election Data Visualization Dashboard using Power BI |
-| 📱 **Flutter Applications** | [View Repository](https://github.com/minnachirakkal775-bot) | Mobile applications for community support and emergency assistance |
+| ⚡ **EV Chain Project** | [View Repository](https://github.com/minnachirakkal775-bot/EV-Chain-Management-System) | Role-based charging station management portal built with Django & MySQL featuring real-time booking requests |
+| ♻️ **Smart Waste Classification** | [View Repository](https://github.com/minnachirakkal775-bot/SmartWasteDetectionSystem) | AI-powered waste detection and classification using YOLOv8 |
+| 🚨 **Disaster Management System** | [View Repository](https://github.com/minnachirakkal775-bot/DisasterManagementApp) | Flask + MySQL web application for disaster reporting and resource management |
+| 📊 **ElectViz Dashboard** | [View Repository](https://github.com/minnachirakkal775-bot/ElectViz-Election-Data-Visualization-for-Media1) | Interactive Election Data Visualization Dashboard using Power BI |
+| 📱 **HelpHub AI (Flutter App)** | [View Repository](https://github.com/minnachirakkal775-bot/HelpHub_ai) | AI-powered emergency assistance app connecting users with volunteers |
+| 🌐 **WikiScroll AI Write** | [View Repository](https://github.com/minnachirakkal775-bot/WikiScroll_AI_write) | Wikipedia knowledge discovery platform powered by Llama 3.3 70B & Python |
 
 ---
 
