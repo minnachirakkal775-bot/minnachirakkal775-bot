@@ -113,12 +113,22 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 
 # 🚀 Featured Projects
 
-| 🚀 Project | Description |
-|------------|-------------|
-| ♻️ **Smart Waste Classification** | AI-powered waste detection and classification using YOLOv8 |
-| 🚨 **Disaster Management System** | Flask + MySQL web application for disaster reporting and resource management |
-| 📊 **ElectViz Dashboard** | Interactive Election Data Visualization Dashboard using Power BI |
-| 📱 **Flutter Applications** | Mobile applications for community support and emergency assistance |
+> *Note: Update the `repo=` names below with your actual repository names on GitHub!*
+
+<p align="center">
+  <a href="https://github.com/minnachirakkal775-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minnachirakkal775-bot&repo=smart-waste-classification&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/minnachirakkal775-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minnachirakkal775-bot&repo=disaster-management-system&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+# ⚡ Recent Repository Activity
+<!-- RECENT_REPOS:START -->
+<!-- RECENT_REPOS:END -->
 
 ---
 
