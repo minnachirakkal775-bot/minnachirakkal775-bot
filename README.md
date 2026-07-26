@@ -113,12 +113,13 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 
 # 🚀 Featured Projects
 
-| 🚀 Project | Description |
-|------------|-------------|
-| ♻️ **Smart Waste Classification** | AI-powered waste detection and classification using YOLOv8 |
-| 🚨 **Disaster Management System** | Flask + MySQL web application for disaster reporting and resource management |
-| 📊 **ElectViz Dashboard** | Interactive Election Data Visualization Dashboard using Power BI |
-| 📱 **Flutter Applications** | Mobile applications for community support and emergency assistance |
+| 🚀 Project | Repository Link | Description |
+|------------|-----------------|-------------|
+| ⚡ **EV Chain Project** | [View Repository](https://github.com/minnachirakkal775-bot/EV-chain) | Smart Electric Vehicle charging ecosystem & blockchain management system |
+| ♻️ **Smart Waste Classification** | [View Repository](https://github.com/minnachirakkal775-bot) | AI-powered waste detection and classification using YOLOv8 |
+| 🚨 **Disaster Management System** | [View Repository](https://github.com/minnachirakkal775-bot) | Flask + MySQL web application for disaster reporting and resource management |
+| 📊 **ElectViz Dashboard** | [View Repository](https://github.com/minnachirakkal775-bot) | Interactive Election Data Visualization Dashboard using Power BI |
+| 📱 **Flutter Applications** | [View Repository](https://github.com/minnachirakkal775-bot) | Mobile applications for community support and emergency assistance |
 
 ---
 
