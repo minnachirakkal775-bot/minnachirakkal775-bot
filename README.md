@@ -121,6 +121,7 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 | 📊 **ElectViz Dashboard** | [View Repository](https://github.com/minnachirakkal775-bot/ElectViz-Election-Data-Visualization-for-Media1) | Interactive Election Data Visualization Dashboard using Power BI |
 | 📱 **HelpHub AI (Flutter App)** | [View Repository](https://github.com/minnachirakkal775-bot/HelpHub_ai) | AI-powered emergency assistance app connecting users with volunteers |
 | 🌐 **WikiScroll AI Write** | [View Repository](https://github.com/minnachirakkal775-bot/WikiScroll_AI_write) | Wikipedia knowledge discovery platform powered by Llama 3.3 70B & Python |
+| 🏖️ **BeachScape** | [View Repository](https://github.com/minnachirakkal775-bot/BeachScape) | Interactive web application for exploring beach destinations across India with images and details |
 
 ---
 
