@@ -1,0 +1,21 @@
+name: Update Recent Repositories in README
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Automatically runs every 6 hours
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: mekind/github-activity-readme@v1.4.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'chore: update recent activity in README [skip ci]'
+          MAX_LINES: 5
