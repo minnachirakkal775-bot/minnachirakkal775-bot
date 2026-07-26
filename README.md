@@ -125,13 +125,6 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 
 ---
 
-# ⚡ Recent Repository Activity
-
-<!-- RECENT_REPOS:START -->
-<!-- RECENT_REPOS:END -->
-
----
-
 # 📈 GitHub Analytics
 
 <p align="center">
@@ -141,10 +134,6 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnachirakkal775-bot&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minnachirakkal775-bot&theme=tokyonight&margin-w=15&margin-h=15"/>
 </p>
 
 ---
