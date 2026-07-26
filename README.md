@@ -113,20 +113,17 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 
 # 🚀 Featured Projects
 
-> *Note: Update the `repo=` names below with your actual repository names on GitHub!*
-
-<p align="center">
-  <a href="https://github.com/minnachirakkal775-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minnachirakkal775-bot&repo=smart-waste-classification&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/minnachirakkal775-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minnachirakkal775-bot&repo=disaster-management-system&theme=tokyonight" />
-  </a>
-</p>
+| 🚀 Project | Description |
+|------------|-------------|
+| ♻️ **Smart Waste Classification** | AI-powered waste detection and classification using YOLOv8 |
+| 🚨 **Disaster Management System** | Flask + MySQL web application for disaster reporting and resource management |
+| 📊 **ElectViz Dashboard** | Interactive Election Data Visualization Dashboard using Power BI |
+| 📱 **Flutter Applications** | Mobile applications for community support and emergency assistance |
 
 ---
 
 # ⚡ Recent Repository Activity
+
 <!-- RECENT_REPOS:START -->
 <!-- RECENT_REPOS:END -->
 
@@ -135,35 +132,16 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 # 📈 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=minnachirakkal775-bot&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnachirakkal775-bot&layout=compact&theme=tokyonight"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=minnachirakkal775-bot&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnachirakkal775-bot&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=minnachirakkal775-bot&theme=tokyonight"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnachirakkal775-bot&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=minnachirakkal775-bot&theme=tokyo-night"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minnachirakkal775-bot&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=minnachirakkal775-bot&theme=tokyonight&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=minnachirakkal775-bot&theme=tokyonight&margin-w=15&margin-h=15"/>
 </p>
 
 ---
