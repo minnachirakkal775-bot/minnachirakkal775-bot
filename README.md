@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=Vaishnavi%20C%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20|%20Deep%20Learning%20|%20Full%20Stack%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=Vaishnavi%20C%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Deep%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 
 <h1 align="center">Hi 👋, I'm Vaishnavi C S</h1>
 
@@ -8,21 +8,18 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+Enthusiast;Deep+Learning+Developer;Computer+Vision+Explorer;Flutter+%7C+Django+%7C+Python;Always+Learning+New+Things+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+Enthusiast;Deep+Learning+Developer;Computer+Vision+Explorer;Flutter+%7C+Django+%7C+Python;Always+Learning+New+Things+🚀"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/minnachirakkal775-bot">
-<img src="https://komarev.com/ghpvc/?username=minnachirakkal775-bot&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</a>
+  <a href="https://github.com/minnachirakkal775-bot">
+    <img src="https://komarev.com/ghpvc/?username=minnachirakkal775-bot&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  </a>
 
-<img src="https://img.shields.io/github/followers/minnachirakkal775-bot?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/minnachirakkal775-bot?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-Developer-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/minnachirakkal775-bot?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/minnachirakkal775-bot?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Developer-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
@@ -52,61 +49,51 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,sql"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,sql"/>
 </p>
 
 ## 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter"/>
 </p>
 
-## ⚙ Backend Development
+## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask"/>
+  <img src="https://skillicons.dev/icons?i=django,flask"/>
 </p>
 
-## 🗄 Database
+## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 </p>
 
 ## 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 </p>
 
 <p>
-
-<img src="https://img.shields.io/badge/YOLOv8-Deep%20Learning-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
+  <img src="https://img.shields.io/badge/YOLOv8-Deep%20Learning-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 </p>
 
-## 🛠 Tools & Platforms
+## 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,mysql"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,mysql"/>
 </p>
 
 <p>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
-
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
 </p>
 
 ---
@@ -128,8 +115,8 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minnachirakkal775-bot&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minnachirakkal775-bot&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=minnachirakkal775-bot&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnachirakkal775-bot&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -141,11 +128,11 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 ## 🌱 Currently Learning
 
 - 🤖 Artificial Intelligence
-- 🧠 Deep Learning (YOLOv8)
-- 👁 Computer Vision
+- 🧠 Deep Learning & YOLOv8
+- 👁️ Computer Vision
 - 📱 Flutter Development
 - 🌐 Django Development
-- ☁ Cloud Computing
+- ☁️ Cloud Computing
 
 ---
 
@@ -180,15 +167,19 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:minnachirakkal775@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+
+  <a href="mailto:minnachirakkal775@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/vaishnavi-c-s-34ab3a290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="https://www.linkedin.com/in/vaishnavi-c-s-34ab3a290">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/minnachirakkal775-bot" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  <a href="https://github.com/minnachirakkal775-bot">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
 </p>
 
 ---
