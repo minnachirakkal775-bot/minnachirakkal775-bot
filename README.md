@@ -1,4 +1,3 @@
-```markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=Vaishnavi%20C%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Deep%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 
 <h1 align="center">Hi 👋, I'm Vaishnavi C S</h1>
@@ -13,7 +12,6 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 </p>
 
 <p align="center">
-
   <a href="https://github.com/minnachirakkal775-bot">
     <img src="https://komarev.com/ghpvc/?username=minnachirakkal775-bot&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
   </a>
@@ -22,7 +20,6 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
   <img src="https://img.shields.io/github/stars/minnachirakkal775-bot?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-Developer-blueviolet?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -79,7 +76,7 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/YOLOv8-Deep%20Learning-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
@@ -92,7 +89,7 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,mysql"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
@@ -103,15 +100,15 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 
 # 🚀 Featured Projects
 
-| 🚀 Project | Repository Link | Description |
-|------------|-----------------|-------------|
+| 🚀 Project | Repository | Description |
+|------------|------------|-------------|
 | ⚡ **EV Chain Project** | [View Repository](https://github.com/minnachirakkal775-bot/EV-Chain-Management-System) | Role-based charging station management portal built with Django & MySQL featuring real-time booking requests |
 | ♻️ **Smart Waste Classification** | [View Repository](https://github.com/minnachirakkal775-bot/SmartWasteDetectionSystem) | AI-powered waste detection and classification using YOLOv8 |
 | 🚨 **Disaster Management System** | [View Repository](https://github.com/minnachirakkal775-bot/DisasterManagementApp) | Flask + MySQL web application for disaster reporting and resource management |
 | 📊 **ElectViz Dashboard** | [View Repository](https://github.com/minnachirakkal775-bot/ElectViz-Election-Data-Visualization-for-Media1) | Interactive Election Data Visualization Dashboard using Power BI |
-| 📱 **HelpHub AI (Flutter App)** | [View Repository](https://github.com/minnachirakkal775-bot/HelpHub_ai) | AI-powered emergency assistance app connecting users with volunteers |
+| 📱 **HelpHub AI** | [View Repository](https://github.com/minnachirakkal775-bot/HelpHub_ai) | AI-powered emergency assistance app connecting users with volunteers |
 | 🌐 **WikiScroll AI Write** | [View Repository](https://github.com/minnachirakkal775-bot/WikiScroll_AI_write) | Wikipedia knowledge discovery platform powered by Llama 3.3 70B & Python |
-| 🏖️ **BeachScape** | [View Repository](https://github.com/minnachirakkal775-bot/BeachScape) | Interactive web application for exploring beach destinations across India with images and details |
+| 🏖️ **BeachScape** | [View Repository](https://github.com/minnachirakkal775-bot/BeachScape) | Interactive web application for exploring beach destinations across India |
 
 ---
 
@@ -119,19 +116,19 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 
 <p align="center">
 
-  <img src="https://img.shields.io/github/followers/minnachirakkal775-bot?label=Followers&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/followers/minnachirakkal775-bot?label=GitHub%20Followers&style=for-the-badge&logo=github&logoColor=white"/>
 
-  <img src="https://img.shields.io/github/stars/minnachirakkal775-bot?label=Total%20Stars&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/minnachirakkal775-bot?label=Repository%20Stars&style=for-the-badge&logo=github&logoColor=white"/>
 
-  <img src="https://img.shields.io/github/repos/minnachirakkal775-bot?label=Public%20Repositories&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/repos/minnachirakkal775-bot?label=Public%20Repositories&style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
 <p align="center">
 
-  <img src="https://img.shields.io/github/commit-activity/y/minnachirakkal775-bot?label=Commit%20Activity&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/commit-activity/y/minnachirakkal775-bot?label=Yearly%20Commits&style=for-the-badge&logo=github&logoColor=white"/>
 
-  <img src="https://img.shields.io/github/last-commit/minnachirakkal775-bot/SmartWasteDetectionSystem?label=Latest%20Project%20Commit&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/minnachirakkal775-bot/SmartWasteDetectionSystem?label=Latest%20Project%20Update&style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
@@ -215,4 +212,3 @@ If you like my work, don't forget to ⭐ my repositories.
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6C63FF&height=120&section=footer"/>
-```
