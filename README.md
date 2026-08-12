@@ -13,6 +13,7 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 </p>
 
 <p align="center">
+
   <a href="https://github.com/minnachirakkal775-bot">
     <img src="https://komarev.com/ghpvc/?username=minnachirakkal775-bot&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
   </a>
@@ -21,6 +22,7 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
   <img src="https://img.shields.io/github/stars/minnachirakkal775-bot?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-Developer-blueviolet?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -116,15 +118,27 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api?username=minnachirakkal775-bot&show_icons=true&theme=tokyonight&hide_border=true"
-  />
 
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=minnachirakkal775-bot&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://img.shields.io/github/followers/minnachirakkal775-bot?label=Followers&style=for-the-badge&logo=github"/>
+
+  <img src="https://img.shields.io/github/stars/minnachirakkal775-bot?label=Total%20Stars&style=for-the-badge&logo=github"/>
+
+  <img src="https://img.shields.io/github/repos/minnachirakkal775-bot?label=Public%20Repositories&style=for-the-badge&logo=github"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/github/commit-activity/y/minnachirakkal775-bot?label=Commit%20Activity&style=for-the-badge&logo=github"/>
+
+  <img src="https://img.shields.io/github/last-commit/minnachirakkal775-bot/SmartWasteDetectionSystem?label=Latest%20Project%20Commit&style=for-the-badge&logo=github"/>
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/minnachirakkal775-bot?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
