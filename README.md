@@ -1,3 +1,4 @@
+```markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=Vaishnavi%20C%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Deep%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 
 <h1 align="center">Hi 👋, I'm Vaishnavi C S</h1>
@@ -115,12 +116,15 @@ AI & Deep Learning Enthusiast • Computer Vision • Full Stack Developer
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=minnachirakkal775-bot&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnachirakkal775-bot&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=minnachirakkal775-bot&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnachirakkal775-bot&theme=tokyonight&hide_border=true" />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=minnachirakkal775-bot&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -197,3 +201,4 @@ If you like my work, don't forget to ⭐ my repositories.
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6C63FF&height=120&section=footer"/>
+```
