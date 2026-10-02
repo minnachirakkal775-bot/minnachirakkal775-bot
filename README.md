@@ -114,10 +114,11 @@ Vidya Academy of Science and Technology, Kerala
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases"/>
 </p>
 
+
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio" alt="Development Tools"/>
 </p>
 
 <p>
@@ -126,7 +127,6 @@ Vidya Academy of Science and Technology, Kerala
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva"/>
 </p>
-
 ---
 
 <!-- ===================== CURRENTLY WORKING ON ===================== -->
